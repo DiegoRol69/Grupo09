@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Estudiante A\\DIEGOYMIRIAM\\DIEGOYMIRIAM\\DIEGOYMIRIAM.csproj",
+      "projectUniqueName": "C:\\Grupo09\\DIEGOYMIRIAM\\DIEGOYMIRIAM\\DIEGOYMIRIAM.csproj",
       "projectName": "DIEGOYMIRIAM",
-      "projectPath": "C:\\Estudiante A\\DIEGOYMIRIAM\\DIEGOYMIRIAM\\DIEGOYMIRIAM.csproj",
+      "projectPath": "C:\\Grupo09\\DIEGOYMIRIAM\\DIEGOYMIRIAM\\DIEGOYMIRIAM.csproj",
       "packagesPath": "C:\\Users\\34690\\.nuget\\packages\\",
-      "outputPath": "C:\\Estudiante A\\DIEGOYMIRIAM\\DIEGOYMIRIAM\\obj\\",
+      "outputPath": "C:\\Grupo09\\DIEGOYMIRIAM\\DIEGOYMIRIAM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\34690\\AppData\\Roaming\\NuGet\\NuGet.Config",
