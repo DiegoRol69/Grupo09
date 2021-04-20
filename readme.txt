@@ -3,4 +3,4 @@ Habituarnos al ciclo de trabajo con Git
 
 Nueva funcionalidad añadida: customización de los colores del juego.
 
-Creada la funcionalidad para rotar piezas. Escribe en pantalla moviento de las piezas.
+Creada la funcionalidad para rotar piezas. Escribe en pantalla "moviento de las piezas". 
